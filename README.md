@@ -13,7 +13,7 @@
 - Open-source initiatives related to data protection and privacy.
 
 📫 How to reach me:
-- **Email:** anthres@quaditec.co
+- **Email:** anthres@quaditec.com
 
 🎯 Fun fact:
 - I’m passionate about solving complex problems and building technology that makes the digital world safer.
