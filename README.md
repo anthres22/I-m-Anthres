@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @anthres22
+# 👋 Hi, I’m Anthres
 
 👀 I’m interested in:
 - Cybersecurity and advanced algorithm development.
